@@ -22,6 +22,8 @@ Enhanced interface for a more intuitive and user-friendly experience.
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/eef1d930-b345-4481-a310-55f72b66a3b5)
 
+![Screenshot (3)](https://github.com/user-attachments/assets/a05354bb-94e6-4f8d-9e69-2c4685568762)
+
 
 ## Getting Started
 ### Prerequisites
