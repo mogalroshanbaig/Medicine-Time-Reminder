@@ -20,6 +20,9 @@ Enhanced interface for a more intuitive and user-friendly experience.
 - **Tools**: KEIL uVision, Proteus for simulation
 - **Peripherals**: LCD, Keypad, Pushbuttons, LEDs, Buzzer
 
+![Screenshot (2)](https://github.com/user-attachments/assets/eef1d930-b345-4481-a310-55f72b66a3b5)
+
+
 ## Getting Started
 ### Prerequisites
 - LPC2124 microcontroller
