@@ -32,6 +32,6 @@ Enhanced interface for a more intuitive and user-friendly experience.
 - Proteus for simulation
 
 ### Installation
- #Clone the repository:
+ Clone the repository:
    ```bash
    git clone https://github.com/mogalroshanbaig/Medicine-Time-Reminder.git
